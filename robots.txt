@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://lele4dapk.pages.dev/sitemap.xml
